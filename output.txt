@@ -1,0 +1,44 @@
+Based on the provided PDF file, I have extracted the information and presented it in a tabular format as requested:
+
+**Education**
+
+| University | Degree | Field of Study | Duration | CGPA |
+| --- | --- | --- | --- | --- |
+| RGPV University | Bachelor of Engineering | Computer Science | Jul 2021 - Jun 2025 | 7.8 |
+
+**Skills**
+
+| Category | Skills |
+| --- | --- |
+| Programming | Java, Kotlin, Dart, C, SQL, SQLite |
+| Tools/Technologies | Android & Flutter Development, Bloc/Redux State Management, Widgets, Flutter CLI, MVVM Architecture, Firebase, FireStore, FCM, RESTful APIs, Dependency Injection, Jetpack Compose, Version Control: Git/Github |
+| Technical Proficiencies | Data Structures and Algorithms (DSA), Object-Oriented Programming (OOPs), Database Management Systems (DBMS) |
+| Soft Skills | Problem Analysis, Team Collaboration, Clear Communication, Precision, Initiative and Guidance |
+
+**Achievements**
+
+| Achievement | Description |
+| --- | --- |
+| CodeEnergia National Hackathon | First Prize, Led the development of “EcoSync,” a pivotal app that tracks electricity usage accurately |
+
+**Projects**
+
+| Project | Description | Technologies Used |
+| --- | --- | --- |
+| Trello Clone | Designed and developed a functional Trello clone to facilitate 3x project management efficiency and enhance 30% team collaboration | Android Development: Kotlin, XML, Database: Firebase Cloud Firestore, Version Control: Git, GitHub, Testing: JUnit, Espresso, Architecture: MVVM |
+| EcoSync | Conceptualized and developed a utility app that provides real-time electricity usage statistics, enabling users to reduce energy costs effectively | Android Development: Kotlin, XML, Backend: Node.js, JavaScript, C, Database: Firebase, Firestore Realtime Database |
+
+**Experience**
+
+| Company | Role | Duration | Achievements |
+| --- | --- | --- | --- |
+| BlueMango Labs | SDE Intern | Jan 2024 - Present | Spearheaded the redesign of user interfaces, Implemented Domain-Driven Design, Integrated advanced backend technologies, Pioneered user engagement enhancements, Streamlined deployment processes, Directed efforts to implement internationalization features |
+
+**Certifications**
+
+| Certification | Duration | Link |
+| --- | --- | --- |
+| Data Structures and Algorithms with Java | Aug 2022 - Feb 2023 | LINK |
+| Android 14 & Kotlin Development Masterclass | May 2023 - Nov 2023 | LINK |
+
+Let me know if you'd like me to extract any specific information or reformat the table in any way!
